@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOP Write Up | BuckeyeCTF
-author: Abdo Farwan
 date: 2022-11-21 21:00:00 +0800
 categories: [Secuirty, WebSec, CTF]
 tags: ctf, security, websec, sop
@@ -13,7 +12,7 @@ image:
   alt: Buckeye CTF SOP Write Up thumbnail
 ---
 
-> This was my first ever CTF writeup & which also won me my first `$100` writeup prize.
+> This was my first ever CTF writeup which also won me my first writeup prize of `$100` :laughing:.
 {: .prompt-tip }
 
 As a CTF noob coming from solving the Web challenge **“Canary”** that was worth just 70 points, I thought SOP that gave 453 points would be a bit hard. But it turns out pretty simple to some extent.
