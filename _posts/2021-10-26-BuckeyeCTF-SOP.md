@@ -12,7 +12,7 @@ image:
   alt: Buckeye CTF SOP Write Up thumbnail
 ---
 
-> This was my first ever CTF writeup which also won me my first writeup prize of `$100` :laughing:.
+> This was my first ever CTF writeup which also won me my first writeup prize of `$100` 😂.
 {: .prompt-tip }
 
 As a CTF noob coming from solving the Web challenge **“Canary”** that was worth just 70 points, I thought SOP that gave 453 points would be a bit hard. But it turns out pretty simple to some extent.
