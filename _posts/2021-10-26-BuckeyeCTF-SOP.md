@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOP Write Up | BuckeyeCTF
-date: 2022-11-21 21:00:00 +0800
+date: 2021-11-21 21:00:00 +0800
 categories: [Secuirty, WebSec, CTF]
 tags: ctf, security, websec, sop
 toc: true
